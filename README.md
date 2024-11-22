@@ -33,6 +33,8 @@ We use this categorical data encoding technique when the features are nominal(do
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 # RESULT:
+[Screenshot 2024-11-14 195733 (1).pdf](https://github.com/user-attachments/files/17867770/Screenshot.2024-11-14.195733.1.pdf)
+
        # INCLUDE YOUR RESULT HERE
 
        
